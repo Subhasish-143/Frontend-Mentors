@@ -34,7 +34,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 
 ### Links
 
-- Solution URL: [here](https://github.com/Subhasish-143/Frontend-Mentors/)
+- Solution URL: [here](https://github.com/Subhasish-143/Frontend-Mentors/tree/main/recipe-page-main)
 - Live Site URL: [here](https://starlit-tartufo-536d6e.netlify.app/)
 
 ## My process
@@ -52,5 +52,5 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ## Author
 
 - GitHub - [github.com/Subhasish-143]((https://github.com/Subhasish-143))
-- Frontend Mentor - [@Chanda-Abdul](https://www.frontendmentor.io/profile/)
+- Frontend Mentor - [@Subhasish-143](https://www.frontendmentor.io/profile/Subhasish-143)
 
